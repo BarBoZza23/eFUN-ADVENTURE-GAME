@@ -1,6 +1,6 @@
 # License
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT [LICENSE](https://github.com/Pikridas/eFUN-ADVENTURE-GAME/blob/main/LICENSE).
 
 # Overview
 
