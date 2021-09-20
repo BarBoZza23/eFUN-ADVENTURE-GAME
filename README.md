@@ -10,5 +10,5 @@ The end goal of the game is defined by the user through an option menu which app
 
 # Instructions
 
-Analytical Instruction for the use of the game can be found at Game Instruction English.txt
-Αναλυτικές Οδηγίες για την χρήση του παιχνδιού μπορούν να βρεθούν στο αρχείο Game Instruction Greek.txt
+Analytical Instruction for the use of the game can be found at Game Instructions English.txt [Game Instructions Engilsh.txt](https://github.com/Pikridas/eFUN-ADVENTURE-GAME/blob/main/Game%20Instructions%20English.txt)
+Αναλυτικές Οδηγίες για την χρήση του παιχνδιού μπορούν να βρεθούν στο αρχείο [Game Instruction Greek.txt](https://github.com/Pikridas/eFUN-ADVENTURE-GAME/blob/main/Game%20Instructions%20Greek.txt)
