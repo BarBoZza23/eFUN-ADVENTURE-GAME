@@ -1,3 +1,5 @@
+This project is licensed under the terms of the MIT license.
+
 # eFUN-ADVENTURE-GAME
 Creation of an adventure console game for a fantasy company. 
 
