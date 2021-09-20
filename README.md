@@ -14,7 +14,6 @@ v) Creation of Boiled Meat.
 vi) Creation of Climbing Hook.
 vii) BONUS GOAL: Burn all your money (funny addition to the game).
 
-
 1. The commands given in the terminal should be Greeklish CAPITALS.
 
 2. Only Vectors were used to implement all the functions.
