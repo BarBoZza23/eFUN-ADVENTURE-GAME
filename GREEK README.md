@@ -1,3 +1,5 @@
+This project is licensed under the terms of the MIT license.
+
 # eFUN-ADVENTURE-GAME
 Δημιουργία ενός παιχνιδιού περιπέτειας για μία φανταστική εταιρεία.
 
