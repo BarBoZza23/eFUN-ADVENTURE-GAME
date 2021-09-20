@@ -2,6 +2,8 @@
 
 This project is licensed under the terms of the MIT [LICENSE](https://github.com/Pikridas/eFUN-ADVENTURE-GAME/blob/main/LICENSE).
 
+Copyright (c) 2021 MENELAOS PIKRIDAS.
+
 # Overview
 
 This is a CPP programming language console game.
