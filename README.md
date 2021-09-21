@@ -6,7 +6,7 @@ Copyright (c) 2021 MENELAOS PIKRIDAS.
 
 # Overview
 
-This is a CPP programming language console game.
+This is a C++ programming language console game.
 Users can pick up objects, throw it away, even destroy them. They can also create certain new ones. 
 The end goal of the game is defined by the user through an option menu which appears at the start of the game.
 
